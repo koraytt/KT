@@ -1,5 +1,5 @@
 <br />
 <p align="center">
   <a href="https://github.com/koraytt/KT">
-    <img src="images/line_blank.png" alt="Logo" width="600" height="150">
+    <img src="images/line_blank.png" alt="Logo" width="300" height="75">
   </a>
